@@ -32,7 +32,7 @@ StackEdit is a free, open-source Markdown editor based on PageDown, the Markdown
  - Offline editing
  - Online synchronization using Google Drive and Dropbox
  - One click publish on Blogger, Dropbox, Gist, GitHub, Google Drive, SSH server, Tumblr, WordPress
- - 
+
 ### Planned features (ticcky)
  - Ctrl+C & Ctrl+V photos
 
